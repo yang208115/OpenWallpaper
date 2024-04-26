@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="image">
+    <file>wallpapers/default.png</file>
+    <file>wallpapers/main0.png</file>
+    <file>wallpapers/main1.png</file>
+    <file>wallpapers/main2.png</file>
+    <file>wallpapers/main3.png</file>
+    <file>wallpapers/main4.png</file>
+    <file>wallpapers/main5.png</file>
+    <file>wallpapers/main6.png</file>
+    <file>wallpapers/main7.png</file>
+    <file>wallpapers/main8.png</file>
+    <file>wallpapers/main9.png</file>
+    <file>wallpapers/main10.png</file>
+    <file>wallpapers/main11.png</file>
+    <file>wallpapers/main12.png</file>
+    <file>wallpapers/main13.png</file>
+    <file>wallpapers/main14.png</file>
+    <file>wallpapers/main15.png</file>
+    <file>wallpapers/main16.png</file>
+    <file>wallpapers/main17.png</file>
+    <file>wallpapers/main18.png</file>
+    <file>wallpapers/main19.png</file>
+    <file>wallpapers/main20.png</file>
+    <file>wallpapers/video/video1.jpg</file>
+    <file>wallpapers/video/video2.jpg</file>
+    <file>wallpapers/video/video3.jpg</file>
+    <file>wallpapers/video/video4.jpg</file>
+    <file>wallpapers/video/video5.jpg</file>
+    <file>wallpapers/video/video6.jpg</file>
+    <file>wallpapers/video/video7.jpg</file>
+  </qresource>
+</RCC>
